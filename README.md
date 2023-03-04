@@ -5,7 +5,7 @@
 I always love computing and I like to learn by myself a lot of things related to this computing's world.
 I am really interested in topics such as internet, hardware, software, coding, among others.
 
-🌱Currently learing the bootcamp about **Full Stack Develop** is going to be my first time with this topic so I am really excited about it!
+🌱Currently learning in the bootcamp about **Full Stack Developer** that is going to be my first time with this topic so I am really excited about it!
 
 ## Curious and excited about the future 🙌🏻
 
